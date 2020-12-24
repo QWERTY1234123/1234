@@ -1,0 +1,300 @@
+@media(max-width:1140px) {
+    .contenier {
+        max-width: 950px;
+        width: 100%;
+    }
+
+
+
+    .block1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .card_img3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ul_list {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .technoligy {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .tech_img {
+        object-fit: contain;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .main_title {
+        text-align: center;
+    }
+
+    .main-list {
+        display: flex;
+        justify-content: center;
+    }
+
+    .left {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .right {
+        display: flex;
+        align-items: flex-start;
+        margin-top: 20px;
+    }
+
+    .color2 {
+        margin-top: 15px;
+
+    }
+
+    .price1 {
+
+        margin: 0 10px;
+    }
+
+    .price {
+        font-size: 21px;
+    }
+
+    .zakaz {
+        padding: 20px 20px;
+        margin: 0 8px;
+    }
+
+    .a-list {
+        padding: 15px 15px;
+        font-size: 17px;
+    }
+
+    .nav_list_link {
+        font-size: 10px;
+
+    }
+.nav_list{
+    font-size: 15px;
+}
+
+    .logo {
+        font-size: 30px;
+    }
+
+    .order {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:950px) {
+    .contenier {
+        max-width: 870px;
+    }
+
+    .logo_footer {
+        font-size: 20px;
+    }
+
+    .nav_list_link {
+        font-size: 15px;
+    }
+}
+
+@media(max-width:870px) {
+    .contenier {
+        max-width: 780px;
+    }
+
+    .logo-list {
+        font-size: 15px;
+    }
+
+    .logo-link {
+        font-size: 10px;
+    }
+
+    .card-img {
+        margin-bottom: 15px;
+    }
+
+    .color2 {
+        margin-bottom: -50px;
+    }
+}
+
+@media(max-width:780px) {
+    .contenier {
+        max-width: 670px;
+    }
+
+    .logo {
+        font-size: 18px;
+    }
+
+    .footer {
+        background: #000;
+        height: 136px;
+    }
+
+    .logo-list {
+        font-size: 10px;
+    }
+
+    .nav {
+
+        margin: 0;
+    }
+
+    .nav_list_link {
+        padding: 10px 10px;
+    }
+
+    .footer_text {
+        font-size: 9px;
+    }
+
+    .logo-link {
+        font-size: 8px;
+        padding: 5px 5px;
+    }
+}
+
+@media(max-width:670px) {
+    .contenier {
+        max-width: 520px;
+    }
+.card_text{
+    margin-bottom: 20px;
+}
+   .crad_img{
+       margin-top: -97px;
+   }
+    .order {
+        font-size: 20px;
+    }
+
+    .title {
+        font-size: 50px;
+    }
+
+    .logo {
+        font-size: 15px;
+
+    }
+
+    .nav_list_link {
+        font-size: 8px;
+        display: flex;
+    
+    }
+.nav_list{
+  margin-bottom: 20px;
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+    .logo_footer {
+        
+        margin: 0;
+    }
+
+    .nav {
+        margin: 0;
+        flex-direction: column;
+        justify-content: center;
+
+    }
+
+    .logo_footer {
+        font-size: 10px;
+    }
+
+    .list_logo {
+        font-size: 6px;
+        margin: 0;
+    }
+
+    .logo-link {
+        font-size: 6px;
+        margin: 0;
+    }
+
+}
+@media(max-width:520px){
+.contenier{
+    max-width: 430px;
+}
+.nav_list_link{
+    margin: 0;
+}
+.price1{
+    margin-bottom: 10px;
+}
+}
+@media(max-width:430px ){
+
+.contenier{
+    max-width: 320px;
+}
+.main_title{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.main_text{
+font-size: 10px;
+
+}
+.img{
+    margin: 20px;
+}
+.card-img{
+    max-width: 300px;
+}
+.zakaz{
+    padding: 8px 8px;
+    font-size: 8px;
+}
+.order{
+font-size: 15px;
+margin-bottom: 10px;
+
+}
+.title{
+    font-size: 30px;
+}
+.header_content{
+    margin-top: -100px;
+}
+
+}
+@media(max-width:320px){
+    .contenier{
+        max-width:220px ;
+    }
+    .header_content{
+        margin-top: -100px;
+    }
+    .menu{
+        font-size: 10px;
+    }
+    
+    
+}
+
+
+
